@@ -6,6 +6,7 @@ pasta
 chickenCurry 
 beans 
 pizza
- 
+ momo 
+ sprite
  
  thank you :)
