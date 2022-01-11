@@ -4,6 +4,8 @@ welcome to my Kitchen
 kheer 
 pasta
 chickenCurry 
+beans 
+pizza
  
  
  thank you :)
